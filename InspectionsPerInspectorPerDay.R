@@ -5,3 +5,11 @@
 #
 #
 # TEST
+
+# git status
+# git diff
+# jk
+# q
+# git add .  or git add "filename"
+# git commit -m "Commit message"
+# git push 
